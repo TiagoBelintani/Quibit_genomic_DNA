@@ -1,0 +1,64 @@
+🧪 Qubit Quantification – 1xBR
+(edited by Jill Oberski Aug 2020, edited by Andrea Noble Stuen Nov 2020, Michelle Wooley 2024)
+Protocolo traduzido
+1.	Retire os padrões do Qubit da geladeira e deixe aquecer à temperatura ambiente (~10 min). Misture suavemente invertendo cada tubo algumas vezes.
+Figure 1. Padrão para calibração do Qubit. 
+ 
+2.	Retire o tampão Qubit ("1x dsDNA BR Working Solution"). Misture suavemente invertendo o frasco algumas vezes.
+Figura 2. Tampão "1x dsDNA BR Working Solution
+ 
+
+3.	Calcule quanto tampão 1x será necessário com o seguinte cálculo:
+Tampão = (número de amostras + 2 padrões + 1 extra para erro) × 198 µL
+Exemplo para 32.
+(32 +2) x 198 = 6.732 ul 
+Números de amostras + 2 x 198 ul do Tampão = Mix/total
+O mix pode ser preparado em um tipo Falcon
+
+4.	Transfira o tampão para um tubo de tamanho apropriado.
+O mix pode ser preparado em um tipo Falcon
+
+5.	Separe tubos Qubit (transparentes, 0,5 mL) para todas as amostras + 2 padrões. Deixe-os abertos.
+ 
+6.	Pipete 198 µL do tampão em cada tubo de amostra. Não é necessário trocar a ponteira entre os tubos.
+
+7.	Pipete 190 µL do tampão (mix) nos 2 tubos dos padrões.
+2 tudos com os padrões 1 e 2 (Calibração) 
+8.	Adicione 10 µL do padrão 1 em um tubo e 10 µL do padrão 2 no outro. Feche e rotule os tubos como “S1” e “S2”.
+
+9.	Vortex as amostras de DNA por 3 segundos antes de pipetar 2 µL em cada tubo, usando uma ponteira com filtro nova para cada amostra. Certifique-se de mergulhar a ponteira no tampão para que os 2 µL sejam dispensados completamente. Feche e rotule todos os tubos.
+10.	Vortex todos os tubos por 5 segundos contínuos.
+11.	Incube todos os tubos por 3 minutos no escuro.
+
+12.	Ligue o equipamento Qubit. Selecione “dsDNA” → “dsDNA Broad Range” → “Read Standards”. Insira o padrão 1, feche a tampa e pressione “read standard”. Repita para o padrão 2.
+13.	Insira a primeira amostra e pressione “read tube”. Após a leitura, pressione “calculate stock concentration”, ajuste o volume da amostra para 2 µL e defina as unidades como ng/µL. Registre o valor, pressione “save” e anote o fator de conversão decimal, se necessário.
+14.	Repita o passo 13 para todas as amostras.
+ADMAC Protocol
+(edited by Jill Oberski Aug 2020, edited by Andrea Noble Stuen Nov 2020, Michelle Wooley 2024)
+Michael Branstetter – 26 August 2014 – University of Utah
+________________________________________
+📏 BR: broad range: 2–1000 ng
+📏 HS: high sensitivity: 0.2–100 ng
+Most samples are likely to fall in the overlap between BR and HS ranges. For these use the BR kit. The HS kit is for samples suspected to be of low concentration/quality, such as raw extractions.
+🔍 Note: use Qubit tubes only (clear 0.5 mL tubes; non-sterile is fine).
+________________________________________
+🇺🇸 Protocol
+1.	Pull out Qubit standards from fridge and allow to warm to RT (~10 min). Mix gently by inverting each container several times.
+2.	Pull out Qubit buffer (“1x dsDNA BR Working Solution”). Gently mix buffer by inverting several times.
+3.	Calculate how much 1x buffer you will need with the following calculation:
+Buffer = (# samples + 2 standards + 1 for error) × 190 µL
+4.	Transfer buffer into an appropriate sized tube.
+5.	Pull out enough Qubit tubes (clear, 0.5 mL) for your samples plus 2 standards. Leave the lids open.
+6.	Pipet 198 µL of buffer into each of the sample tubes. It is not necessary to change tips between tubes.
+7.	Pipet 190 µL of buffer into the 2 standard tubes.
+8.	Pipet 10 µL of standard 1 into one of the standard tubes and 10 µL of standard 2 into the other. Close and label the standard tubes “S1” and “S2”.
+9.	Vortex the DNA samples for 3 seconds before pipetting 2 µL into the sample tubes, using a separate filter tip for each. Make sure to insert the pipet tip into the buffer to ensure that all 2 µL is dispensed. Close and label all sample tubes.
+10.	Vortex all tubes for 5 solid seconds.
+11.	Incubate all tubes for 3 minutes in a dark drawer.
+12.	Turn on the Qubit device. Select “dsDNA” → “dsDNA Broad Range” → “Read Standards”. Insert standard 1, close the lid, and press “read standard”. Repeat for standard 2.
+13.	Insert your first sample and press “read tube”. After reading, press “calculate stock concentration” and adjust the sample volume to 2 µL and the units to ng/µL. Record the quantity, press “save,” and note the decimal shift to easily calculate other stock concentrations.
+14.	Repeat #13 for all of your samples.
+________________________________________
+
+
+
